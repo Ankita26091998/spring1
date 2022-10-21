@@ -1,0 +1,10 @@
+127.0.0.1 - - [16/Jul/2022:19:16:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:19:16:34 +0530] "GET /FirstWebApp/WEB-INF/todo-servlet.xml HTTP/1.1" 404 682
+127.0.0.1 - - [16/Jul/2022:19:22:15 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:19:22:16 +0530] "GET /FirstWebApp/WEB-INF/classes/com/in28minutes/springmvc/LoginController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:19:24:19 +0530] "GET /login HTTP/1.1" 404 756
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:19:24:19 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:19:24:37 +0530] "GET /login HTTP/1.1" 404 756
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:19:28:08 +0530] "GET /login HTTP/1.1" 404 756
+127.0.0.1 - - [16/Jul/2022:19:28:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:19:28:38 +0530] "GET /FirstWebApp/WEB-INF/classes/com/in28minutes/springmvc/LoginController.java HTTP/1.1" 404 682

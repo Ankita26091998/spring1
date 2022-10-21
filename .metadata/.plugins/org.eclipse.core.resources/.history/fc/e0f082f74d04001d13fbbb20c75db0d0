@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>My first web app</title>
+</head>
+<body>
+<%
+
+int num1 = 30;
+int num2 = 20;
+System.out.println("The Sum is: " + (num1 + num2));
+System.out.println("The Mul is: " + (num1 * num2));
+System.out.println("The Sub is: " + (num1 - num2));
+System.out.println("The Div is: " + (num1 / num2));
+System.out.println("The Modulo is: " + (num1 % num2));
+
+
+%>
+
+
+
+My First JSP ${name}
+</body>
+</html>
